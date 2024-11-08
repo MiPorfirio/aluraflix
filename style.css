@@ -10,6 +10,7 @@ margin: 3px;
         padding:  15px;
         font-size: 25px;
         color: floralwhite;
+        justify-content: center;
     }
 
     section{
@@ -17,4 +18,10 @@ margin: 3px;
         padding-bottom: 70px;
         padding-top: 70px;
         display: flex;
+    }
+chamada-texto{
+        margin-right: 100px;
+
+
+
     }
